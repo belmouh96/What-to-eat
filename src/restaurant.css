@@ -1,0 +1,7 @@
+.cards{
+    display: inline-block;
+    align-items: center !important;
+}
+.card img{
+    max-height: 200px;
+}
